@@ -1,0 +1,9 @@
+h1{
+    text-decoration: line-through;
+}
+
+
+#button1:hover{
+    background-color: purple;
+    
+}
